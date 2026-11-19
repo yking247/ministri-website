@@ -1247,6 +1247,7 @@ textarea {
 
 .subscription-information h2 {
   font-size: 1.4rem;
+  scroll-margin-top: 100px;
 }
 
 .pricing-list {

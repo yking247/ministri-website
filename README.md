@@ -25,6 +25,8 @@ The subscription information identifies Yolanda King, trading as iDesign Labs, u
 
 The existing Cloud Data Processing Agreement remains a draft, without an effective date or acceptance. Adding the subscription summary does not approve or activate that agreement. Privacy and data-processing documents still need their separate pre-launch approval.
 
+The account-closure section is a proposed policy and is explicitly marked as not yet in effect. The current Cloud code does not establish the optional 90-day church recovery period, full church export/restoration, pre-deletion Owner notification or complete church-deletion and backup-expiry procedures. Those arrangements must be prepared, verified and separately approved before this proposal is presented as an available service. Paid-subscription cancellation continues to preserve church data and is separate from account closure. The proposed recovery period must not override the church's separate, shorter Sunday School retention policy or individual data-protection rights.
+
 ## GitHub Pages upload
 
 Replace the matching website files in the current GitHub Pages repository with the files in this package, including the new `fellowship-licence` folder. Keep `CNAME` at the repository root.
