@@ -1206,6 +1206,49 @@ textarea {
   background: var(--lavender-soft);
 }
 
+.pricing-guidance {
+  margin-top: 32px;
+  padding: 28px;
+  border: 1px solid var(--line);
+  border-radius: 22px;
+  background: var(--lavender-soft);
+}
+
+.pricing-guidance h2 {
+  font-size: 1.5rem;
+}
+
+.pricing-guidance p,
+.subscription-information p {
+  margin-top: 16px;
+  line-height: 1.8;
+}
+
+.pricing-guidance a,
+.subscription-information a {
+  color: var(--purple);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  overflow-wrap: anywhere;
+}
+
+.subscription-information .container {
+  max-width: 840px;
+}
+
+.subscription-information h1 {
+  font-size: clamp(2rem, 6vw, 3.25rem);
+  line-height: 1.15;
+}
+
+.subscription-information section {
+  margin-top: 36px;
+}
+
+.subscription-information h2 {
+  font-size: 1.4rem;
+}
+
 .pricing-list {
   margin: 22px 0 28px;
   padding: 0;
