@@ -27,6 +27,8 @@ The existing Cloud Data Processing Agreement remains a draft, without an effecti
 
 The account-closure section remains a proposed policy, not yet in effect. The separate Cloud account-closure review implements Owner/MFA verification, a 90-calendar-day recovery request, paused normal access with Owner recovery/export/billing access, withdrawal, queued notifications and manual-deletion review safeguards. Exports and permanent deletion are operator-assisted, not automatic. The migration, rollout, notification delivery and operator/backup/exception arrangements require separate approval before publication. Paid-subscription cancellation continues to preserve church data and never requests closure. The proposed recovery period does not override existing Sunday School retention policies or individual data-protection rights.
 
+The final Cloud integration continuation verifies the complete local schema, actual Auth/email/MFA, captured notifications, recovery, isolation and a fictional backup restore. Normal online closure now requires cancellation of future paid renewals first; scheduled period-end cancellation is accepted. Access pauses immediately even when paid time remains. Statutory erasure requests through support remain independent. Cloud installation, effective policies, production delivery and publication still require separate approval.
+
 ## GitHub Pages upload
 
 Replace the matching website files in the current GitHub Pages repository with the files in this package, including the new `fellowship-licence` folder. Keep `CNAME` at the repository root.
